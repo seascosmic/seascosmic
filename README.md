@@ -24,4 +24,4 @@
 </div>
 
 
-![Snake animation](https://github.com/seascosmic/blob/output/github-contribution-grid-snake.svg)
+https://github.com/seascosmic/seascosmic/blob/output/github-contribution-grid-snake.svg
