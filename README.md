@@ -2,11 +2,11 @@
 ### My name is Daniele and my nickname is elle!
 
 
-#### Tools and technologies
+### Tools and technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
           
-#### Contact
+### Contact
 
 
 <div>
@@ -16,7 +16,7 @@
 </div>
 
 
-#### Github Statics 
+### Github Statics 
 <div>
 <a href="https://github.com/seascosmic">
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seascosmic&layout=compact&langs_count=7&theme=dracula"/>
@@ -24,4 +24,4 @@
 </div>
 
 
-![Snake animation](https://github.com/seascosmic/seacosmic/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seascosmic/blob/output/github-contribution-grid-snake.svg)
