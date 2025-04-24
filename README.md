@@ -1,6 +1,8 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Daniele and my nickname is elle!
-
+### My name is Daniele and my nickname is elle! :mortar_board: :computer:
+Computer Science student with a focus on backend development.
+I am currently deepening my knowledge in Java, APIs and good programming practices.
+I am passionate about learning, solving problems and transforming ideas into clean and functional code.
 
 ### Tools and technologies
 
@@ -23,5 +25,3 @@
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=seascosmic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
-![Snake animation](https://github.com/seascosmic/seascosmic/blob/output/github-contribution-grid-snake.svg)
