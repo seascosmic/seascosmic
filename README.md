@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Daniele and my nickname is elle! :mortar_board::computer:
+### My name is Daniele and my nickname is elle!
 Computer Science student with a focus on backend development.
 I am currently deepening my knowledge in Java, APIs and good programming practices.
 I am passionate about learning, solving problems and transforming ideas into clean and functional code.
